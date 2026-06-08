@@ -19,8 +19,7 @@ It demonstrates an **end‑to‑end ML workflow**: data preprocessing, feature e
 ## 🛠 Tech Stack
 - **Python**: pandas, numpy, scikit‑learn, matplotlib, seaborn  
 - **Flask**: backend deployment  
-- **HTML/CSS**: frontend interface  
-- **AWS**: deployment hosting  
+- **HTML/CSS**: frontend interface   
 
 ---
 
